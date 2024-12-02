@@ -2,7 +2,7 @@
 
 **ThusVote** est une plateforme de vote en ligne moderne, sécurisée et conviviale, développée avec React, TypeScript et SQLite. Elle permet aux organisations de créer et de gérer efficacement des campagnes de vote tout en garantissant l’intégrité et la transparence du processus de vote.
 
-![Plateforme ThusVote](https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?ixlib=rb-4.0.3&auto=format&fit=crop&q=80)
+![Uploading image.png…]()
 
 ## **Fonctionnalités**
 
