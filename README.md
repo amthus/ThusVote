@@ -3,7 +3,7 @@
 **ThusVote** est une plateforme de vote en ligne moderne, sécurisée et conviviale, développée avec React, TypeScript et SQLite. Elle permet aux organisations de créer et de gérer efficacement des campagnes de vote tout en garantissant l’intégrité et la transparence du processus de vote.
 
 =======
-![Plateforme ThusVote](https://zesty-peony-f38bb0.netlify.app)
+[Plateforme ThusVote]((https://zesty-peony-f38bb0.netlify.app/))
 
 
 ![Plateforme ThusVote](./Thusvote.jpeg)
